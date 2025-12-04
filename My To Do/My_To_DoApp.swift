@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-//jdhfjdshfjdsuy
+//
 @main
 struct My_To_DoApp: App {
     var body: some Scene {
